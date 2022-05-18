@@ -4,6 +4,7 @@
   "version": "1.0.0",
   "description": "Dasher's internal fseq utilities",
   "main": "dist/fseq.js",
+  "types": "dist/fseq.d.ts",
   "scripts": {
     "test": "ts-node src/test.ts",
     "build": "tsc"
