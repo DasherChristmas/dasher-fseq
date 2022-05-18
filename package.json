@@ -1,0 +1,27 @@
+{
+  "$schema": "https://raw.githubusercontent.com/SchemaStore/schemastore/master/src/schemas/json/package.json",
+  "name": "dasher-fseq",
+  "version": "1.0.0",
+  "description": "Dasher's internal fseq utilities",
+  "main": "dist/fseq.js",
+  "scripts": {
+    "test": "ts-node src/test.ts",
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DasherChristmas/dasher-fseq.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DasherChristmas/dasher-fseq/issues"
+  },
+  "homepage": "https://github.com/DasherChristmas/dasher-fseq#readme",
+  "devDependencies": {
+    "@types/node": "^17.0.34",
+    "ts-node": "^10.7.0",
+    "typescript": "^4.6.4"
+  }
+}
