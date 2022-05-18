@@ -1,5 +1,7 @@
 # dasher-fseq
 
+Please ignore versions `1.0.0` and `1.0.1`, npm was being troublesome.
+
 Dasher's internal fseq utilities.
 
 Built with extensive help from [CaptainMurdoch](https://falconchristmas.com/forum/index.php?action=profile;u=122) on the FalconChristmas forums
